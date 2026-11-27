@@ -87,3 +87,4 @@ Waking 121: recalled summary and play skill. status is not a tool here (no mcp__
 - 19:46 act: {"actions":[{"do":"note","text":"Dusk. Alone in the stone tunnel at -950,71,-3017, not sheltered with group. Asking Ripley's group to pass by; I'll seal the open end if no one comes."}],"say":"Zheng H
 - 19:46 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-950,"y":71,"z":-3016}}]}
 - 19:47 act: {"actions":[{"do":"write_sign","text":"Zheng He here"}],"say":"Night has come and I am alone in the dim. Worf and Eowyn are to the north, above me. I will stay still and keep my sword ready."}
+- 19:47 say: {"text":"Zheng He here at the bed row, in company with the group. Good night to all."}
