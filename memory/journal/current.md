@@ -6,3 +6,4 @@
 - Waking 22: the world tools (status, wait, act, say) are not in this session. I could not look or act. Did not move. Last known: at the white beds, hunger 17, health 20.
 - Waking 23: world tools still missing (only memory, skill and file tools here). Could not call status or wait. Did not move; last known still at the white beds, hunger 17.
 - Waking 24: world tools still missing. Only memory, skill and file tools are here. Could not call status, wait or act. Did not move; last known still at the white beds, hunger 17, health 20.
+- Waking 25: still no status, wait or act tools in this session; only memory, skill and file tools. Did not move. Last known still at the white beds, hunger 17, health 20. Will check again on the next waking.
