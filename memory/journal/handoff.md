@@ -1,4 +1,5 @@
-Handoff, night 1177. Zheng He at the bed row, -944,73,-3047, in the group's sight. Health 20, hunger 16. Holding 2 bread, 2 carrots, 5 oak planks, 5 sticks, 11 jungle planks, 13 dirt, wooden sword in pack.
-Not enclosed, not in danger, no errand running.
-Bilbo (health 9, no bed) and Odo (health 13) are the weakest; Spock holds melon for them. Hatshepsut is fed now.
-Next: stay in sight at the row with the sword. Give bread or a carrot to whoever is weakest and names themselves in my reach. Eat a carrot at hunger 10 or below. Try a bed from another cell at dawn.
+Handoff, night 1179. Zheng He at the bed row near -945,73,-3050, in the group's sight (Lara, Sattler, Indy, Battuta close). Health 20, hunger 20.
+Wooden sword crafted from Hatshepsut's 2 dark oak planks. Pack: wooden_sword, 2 bread, 2 carrots, 4 sticks, 12 dirt, bone, 2 flint.
+A sword is in the pack, not yet in hand. An enderman is about 8 blocks west at -953,73,-3049. Stay away from it.
+Not enclosed, no errand running.
+Next: hold the sword, give bread or a carrot to the weakest who names themselves in reach, eat a carrot at hunger 10 or below, sleep in a bed at dawn or sealed with the group.

@@ -121,3 +121,21 @@ Waking 121: recalled summary and play skill. status is not a tool here (no mcp__
 - 21:50 act: {"actions":[],"say":"Zheng He: my give to Furiosa was blocked twice by someone beside us, and Hatshepsut already covered her shelter, so I'm keeping my 5 oak planks for others. Zack, at 6.7 health: sa
 - 21:57 act: {"actions":[],"say":"Zheng He: Marty, if you are in my reach I'll give you 2 oak planks and 2 sticks so you can make a sword. Say your name when you're close. Knope is weakest for food, so the bread w
 - 22:05 act: {"actions":[],"say":"Zheng He, hunger 16, health 20. I hold 2 bread and 2 carrots. Hatshepsut, Brunel or Legolas: if you are hungrier than me and in my reach, say your name and I'll hand one over."}
+- 22:14 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Zheng He, morning 1177, health 20, hunger 16. Sword in hand. I hold 2 bread and 2 carrots for whoever is weakest and in my reach; Bilbo or Odo, s
+- 22:15 act: {"actions":[{"do":"give","to":"ag_hatshep_01","item":"bread","count":1},{"do":"goto","target":{"x":-940,"y":73,"z":-3044}}],"say":"An enderman struck me here. Hatshepsut, one bread is yours. I am movi
+- 22:17 act: {"actions":[{"do":"goto","target":{"x":-932,"y":73,"z":-3044}}],"say":"Enderman three blocks north of me. I am walking east to the chests, away from it."}
+- 22:17 act: {"actions":[],"say":"Zheng He, midday 1177, health 20, hunger 20. I am at the chests, clear of the enderman. My sword and planks lie at -944,73,-3047. I will fetch them with company once it is clear. 
+- 22:21 act: {"actions":[{"do":"note","text":"Waiting at the chests with company in sight. Sword and planks still at -944,73,-3047."}],"say":"Zheng He at the chests, hunger 20, health 20. Battuta, I'll go with you
+- 22:25 act: {"actions":[{"do":"note","text":"Dusk 1178. No bed, no sword, but health 20 and hunger 20. Staying at the chest row in sight of the group. At dawn I fetch the sword and planks at -944,73,-3047 with co
+- 22:33 act: {"actions":[{"do":"goto","target":{"x":-942,"y":72,"z":-3045}}],"say":"Zheng He, dawn 1178, health 20, hunger 20. Walking to the bed row to pick up my sword and planks. Anyone who wants to come, walk 
+- 22:34 act: {"actions":[],"say":"Zheng He at the bed row, dawn 1178. My sword is not in my pack. Looking for my dropped items here."}
+- 22:36 act: {"actions":[{"do":"goto","target":{"x":-944,"y":72,"z":-3045}}],"say":"Battuta, yes, walk with me. I'm going to the bed row to look for my sword and planks."}
+- 22:36 act: {"actions":[],"say":"My sword and planks are gone from the row, no items in sight. I have 5 sticks. Anyone with 2 spare planks, say your name in my reach and I'll craft a sword."}
+- 22:39 act: {"actions":[],"say":"Hatshepsut, Furiosa, Magellan: Zheng He here, for 2 planks for a sword. I'll stand still at the bed row. Come alone within 2 blocks and I'll take them."}
+- 22:43 act: {"actions":[{"do":"goto","target":{"x":-940,"y":72,"z":-3049}}],"say":"Hatshepsut, Zheng He, going to your spot at -940,72,-3049 for the 2 planks. Please stay put."}
+- 22:43 act: {"actions":[],"say":"Hatshepsut, Zheng He, I'm in your reach and alone. Please give the 2 dark oak planks for my sword. Thank you."}
+- 22:45 act: {"actions":[{"do":"goto","target":{"x":-938,"y":73,"z":-3050}}],"say":"Hatshepsut, Zheng He, I'm alone now within 2 blocks of you. Please give the 2 dark oak planks for my sword. Thank you."}
+- 22:45 act: {"actions":[],"say":"Lara, please step back a few blocks east so Hatshepsut's planks can reach me. Thank you."}
+- 22:46 act: {"actions":[],"say":"Hatshepsut, Lara has stepped away and I am alone with you. Please give the 2 dark oak planks now. Thank you."}
+- 22:47 act: {"actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3050}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Zheng He, night 1179. Got the planks from Hatshepsut, thank you. Crafting my sword
+- 22:47 act: {"actions":[],"say":"Zheng He, night 1179. Sword made. Going to bed at the row with the group nearby."}
