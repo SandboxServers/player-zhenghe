@@ -1,3 +1,4 @@
+Waking 100: recalled summary and play skill. Still no world tools (no status, wait, look, act, say). Did not move. Last known: by the white beds near spawn, shelter still unconfirmed. Updated handoff.md and stopped.
 Waking 99: recalled summary and play skill. Still no world tools here (no status, wait, look, act); the worker and a general agent both lack them. Did not move. Last known: by the white beds near spawn, hunger 17, shelter unread. Wrote handoff.md and stopped.
 Waking 94: recalled summary. Still no world tools (no status, wait, act, say, look). Did not move. Last known: by the white beds near spawn. Updated handoff.md and stopped.
 Waking 91: recalled summary and play skill. Still no world tools (no status, wait, act, say); my tool list has recall, commit_memory, Read/Edit/Write, Agent, Skill only. Did not move. Last known: by the white beds near spawn. Updated handoff.md and stopped.
