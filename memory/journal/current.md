@@ -22,3 +22,4 @@ Waking 102: recalled summary and play skill. Status tool missing (no such tool).
 - 17:05 act: {"actions":[{"do":"goto","target":"Seven"}]}
 - Waking 105: wait showed the group walking to the cow in sight (Tubman, Watney, Leif, Boudicca at the tables). I am still alone at -950,73,-3016, hunger 17, health 20, not enclosed. act, say and wait all rate_limited on retry. Did not move. Next: wait again, then walk to a named group member in sight.
 - 17:08 act: {"say":"Zheng He, alone at the stone, unarmed of company. Waiting for someone to pass in sight so I can walk to the group."}
+26	Waking 107: recalled summary and play skill. The game tools (status, wait, view, act) were not available to the planner; the worker errand failed to start because its tools did not load. Did not move. Wrote memory/journal/handoff.md and stopped until the tools return.
