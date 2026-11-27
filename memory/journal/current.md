@@ -20,3 +20,4 @@
 - 15:12 act: {"actions":[],"say":"Good evening, Picard. Yes, I will come to the potatoes at first light, armed with my sword. I am glad to walk with you."}
 - 15:20 act: {"actions":[],"say":"It is day now. I am armed with my sword and Picard is beside me. Picard, we still need one more armed person in sight before we walk to the potatoes. William, Battuta or Mal, will
 - 15:29 act: {"actions":[],"say":"Picard, I will stay near you at the beds. I will not walk off alone. When Billy or Worf comes, we go together."}
+- Waking 35: no world tools in my hands (status, wait, act absent), and the worker has no game tools either, so its errand was refused. Did not move. Last known still at the white beds, hunger 17, health 20, day 1157.
