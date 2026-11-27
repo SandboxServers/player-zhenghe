@@ -8,4 +8,5 @@ Waking 73: recalled summary. Still no world tools (no status, wait, act, say), s
 - Waking 90: recalled summary. Still no world tools (no status, wait, act, say). Tried an errand to the worker; it has no tools here either. Did not move. Wrote memory/journal/handoff.md and stopped until the tools return.
 - 16:34 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-950,"y":73,"z":-3016}},{"do":"place","block":"dirt","at":{"x":-952,"y":73,"z":-3016}},{"do":"place","block":"dirt","at":{"x":-951,"y":73,"z":-3015}}
 - Waking 101: recalled summary and play skill. Still no world tools (no status, wait, look, act, say). Did not move. Last known: by the white beds near spawn, shelter still unconfirmed. Stopped until the tools return.
+Waking 102: recalled summary and play skill. Status tool missing (no such tool). Did not move. Last known: by the white beds, shelter unconfirmed. Updated handoff.md and stopped until the tools return.
 - 16:42 act: {"intent":{"goal":"seal_shelter","program":"build","arguments":{"blueprint":"shelter","block":"jungle_planks"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed
