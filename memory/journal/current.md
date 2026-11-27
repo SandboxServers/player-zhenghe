@@ -21,3 +21,5 @@
 - 14:11 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1092}}],"say":"Zheng He: the melons went to Samwise, so I'm not holding any. I'm going to the bed at 415,-1092 for the night, sword in hand."}
 - Waking 5: status and wait tools are missing again (mcp__geldar__status and mcp__geldar__wait not found). Cannot see the world. Nothing done. Hunger 17, one rotten flesh, wooden sword. Will try the world tools again on the next waking.
 - Waking 4: could not reach the world tools this time (status and wait are not available to me here). Nothing new done. Hunger 17, one rotten flesh, wooden sword, heading for the bed at 415,-1092.
+- 14:25 say: {"text":"Zheng He, armed with a wooden sword, hungry. I will go north for jungle wood with anyone in daylight, and I will share what I learn."}
+- Day 1154, daylight, at bed 416,-1093. Hunger 17, one rotten flesh, wooden sword. Rate-limited for a while. Said I'll go north for jungle wood with company. No one in sight. Next: wait for company, then walk north in daylight.
