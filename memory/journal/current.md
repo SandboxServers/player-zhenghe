@@ -113,3 +113,11 @@ Waking 121: recalled summary and play skill. status is not a tool here (no mcp__
 - 21:35 say: {"text":"Zheng He: Trini has been fed by Zack, Sattler and Indy, so I keep my bread and carrots for whoever is still hungry in my reach. Say your name and hunger."}
 - 21:47 act: {"actions":[{"do":"use","at":{"x":-945,"y":73,"z":-3047}}],"say":"Night is here. I am by the beds with the group, and I will rest in one."}
 - 21:47 act: {"actions":[{"do":"use","at":{"x":-946,"y":73,"z":-3047}}]}
+- 21:47 act: {"say":"Zheng He here, at the bed row. I hold 5 oak planks, 11 jungle planks and 2 bread. Whoever needs a shelter or a sword, say your name within my reach and I will hand over 2 planks.","intent":{"g
+- 21:47 act: {"say":"Zheng He, morning 1176, hunger 16. Uhura, I'll walk to the melons in your sight. I hold 2 bread and 2 carrots for whoever is weakest in my reach.","intent":{"goal":"follow_uhura_to_melons","pr
+- 21:48 act: {"say":"Zheng He: Furiosa, I'll give you 2 oak planks when you step into my reach and say your name. Uhura, I'll bring you bread if you come within my reach."}
+- 21:50 act: {"actions":[{"do":"give","to":"ag_furiosa_01","item":"oak_planks","count":2}],"say":"Zheng He: Furiosa, you are in my reach, so I'm handing you 2 oak planks now."}
+- 21:50 act: {"actions":[{"do":"give","to":"ag_furiosa_01","item":"oak_planks","count":2}],"say":"Zheng He: Furiosa, the last give was blocked by someone beside us. Trying once more for your 2 oak planks."}
+- 21:50 act: {"actions":[],"say":"Zheng He: my give to Furiosa was blocked twice by someone beside us, and Hatshepsut already covered her shelter, so I'm keeping my 5 oak planks for others. Zack, at 6.7 health: sa
+- 21:57 act: {"actions":[],"say":"Zheng He: Marty, if you are in my reach I'll give you 2 oak planks and 2 sticks so you can make a sword. Say your name when you're close. Knope is weakest for food, so the bread w
+- 22:05 act: {"actions":[],"say":"Zheng He, hunger 16, health 20. I hold 2 bread and 2 carrots. Hatshepsut, Brunel or Legolas: if you are hungrier than me and in my reach, say your name and I'll hand one over."}
