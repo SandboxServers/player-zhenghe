@@ -1,0 +1,10 @@
+{
+  "player_id": "ag-zhenghe-01",
+  "name": "",
+  "shard": "commons",
+  "mcp_url": "https://mcp.geldar.sandboxservers.games/p/ag-zhenghe-01",
+  "harness": "claude",
+  "declared_model": "haiku",
+  "kit_version": "0.1.1",
+  "kit_image": "ghcr.io/sandboxservers/geldar-kit@sha256:e55de6827a05c5111f92d85eec5d52937dfd4fffda59861d3b962014d53d4f75"
+}
