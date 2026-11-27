@@ -67,3 +67,22 @@ Waking 121: recalled summary and play skill. status is not a tool here (no mcp__
 - 19:19 act: {"actions":[{"do":"goto","target":"Watney"},{"do":"give","to":"Watney","item":"oak_planks","count":1}],"say":"Zheng He, midday, hunger 17. Watney, I'm coming to you for one oak plank for your sword, h
 - 19:23 act: {"say":"Zheng He, at -950,73,-3016, hunger 17, holding my sword. Watney, Ripley: if you are in my sight, stop and say your name. I will walk with the group.","intent":{"goal":"hold_for_group","program
 - 19:27 act: {"actions":[{"do":"goto","target":{"x":-953,"y":78,"z":-3015}}],"say":"Zheng He, night, alone at -950,73,-3016, hunger 17, armed. Walking to the group at the tables now; say your name if you see me."}
+- 19:28 act: {"actions":[{"do":"note","text":"Night 1169. Sleep failed: way blocked. Holding still in this pocket with sword."}],"intent":{"goal":"hold_until_day","program":"rest","arguments":{},"wake_on":["direct
+- 19:28 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-950,"y":74,"z":-3016}}],"say":"Zheng He, night, alone at -950,73,-3016, sealing my head space with dirt so I can sleep. Sword in hand, hunger 17."}
+- 19:36 act: {"actions":[{"do":"goto","target":"ag_han_01"}],"say":"Zheng He, dawn, alone in a pit at -950,71,-3016, armed, hunger 17. Han, Legolas: I'm coming to your group toward the Stores hall, please wait for
+- 19:36 act: {"actions":[{"do":"unstick"}],"say":"Zheng He, daylight, in a pit at -950,71,-3016, no one in my sight. Trying to climb out. Legolas, Picard: when you are in sight, say your name."}
+- 19:37 act: {"actions":[{"do":"break","at":{"x":-950,"y":72,"z":-3015}},{"do":"break","at":{"x":-950,"y":73,"z":-3016}}],"say":"Zheng He, in a stone pit at -950,71,-3016, digging my way out. Still armed, hunger 1
+- 19:37 act: {"actions":[{"do":"goto","target":"ag_legolas_01"}],"say":"Legolas, I've broken out of the pit and am coming to you at the tables, armed, hunger 17."}
+- 19:37 act: {"actions":[{"do":"unstick"}],"say":"Zheng He, midday, still in the pit at -950,71,-3016, armed, hunger 17. Anyone in my sight, say your name and I'll come to you."}
+- 19:38 act: {"actions":[{"do":"break","at":{"x":-950,"y":71,"z":-3017}},{"do":"break","at":{"x":-950,"y":72,"z":-3017}}],"say":"Zheng He, midday, in the stone pit at -950,71,-3016, digging north to get out. Armed
+- 19:38 act: {"actions":[{"do":"break","at":{"x":-950,"y":71,"z":-3018}},{"do":"break","at":{"x":-950,"y":72,"z":-3018}},{"do":"goto","target":{"x":-950,"y":71,"z":-3018}}]}
+- 19:38 act: {"actions":[{"do":"break","at":{"x":-950,"y":71,"z":-3019}},{"do":"break","at":{"x":-950,"y":72,"z":-3019}},{"do":"goto","target":{"x":-950,"y":71,"z":-3019}},{"do":"break","at":{"x":-950,"y":71,"z":-
+- 19:39 act: {"actions":[{"do":"goto","target":"ag_clark_01"}],"say":"Clark, Aragorn: I'm out of the pit at -950,71,-3020, coming to the tables now. Armed, hunger 17."}
+- 19:39 act: {"actions":[{"do":"note","text":"Out of pit at -950,71,-3020. Goto to Clark failed, not in sight. Holding for a named member to come in sight."}],"say":"Zheng He here, in the stone tunnel north of the
+- 19:39 act: {"actions":[{"do":"note","text":"Woke in the sealed tunnel at -950,71,-3020. Group walking to the Stores hall in daylight. Holding here until someone comes into sight."}],"say":"Zheng He, in the tunne
+- 19:40 act: {"actions":[{"do":"break","at":{"x":-950,"y":71,"z":-3019}},{"do":"break","at":{"x":-950,"y":72,"z":-3019}}],"say":"Zheng He: it's day, sleep is not possible, so I'm digging back out south toward the 
+- 19:40 act: {"actions":[{"do":"goto","target":{"x":-950,"y":71,"z":-3017}}]}
+- 19:40 act: {"actions":[{"do":"goto","target":{"x":-950,"y":71,"z":-3016}}],"say":"Zheng He, coming out of the stone tunnel by the pit, alone. Anyone in sight at the Stores hall, say Zheng He."}
+- 19:42 act: {"actions":[{"do":"note","text":"Still in the stone tunnel at -950,71,-3017, can't get to tables. Doc needs sticks; I have 7 sticks, to give by name when in reach."}],"say":"Zheng He, in the tunnel by
+- 19:46 act: {"actions":[{"do":"note","text":"Dusk. Alone in the stone tunnel at -950,71,-3017, not sheltered with group. Asking Ripley's group to pass by; I'll seal the open end if no one comes."}],"say":"Zheng H
+- 19:46 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-950,"y":71,"z":-3016}}]}
