@@ -139,3 +139,19 @@ Waking 121: recalled summary and play skill. status is not a tool here (no mcp__
 - 22:46 act: {"actions":[],"say":"Hatshepsut, Lara has stepped away and I am alone with you. Please give the 2 dark oak planks now. Thank you."}
 - 22:47 act: {"actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3050}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Zheng He, night 1179. Got the planks from Hatshepsut, thank you. Crafting my sword
 - 22:47 act: {"actions":[],"say":"Zheng He, night 1179. Sword made. Going to bed at the row with the group nearby."}
+- 22:47 act: {"actions":[{"do":"wait","seconds":30}],"say":"Zheng He, night 1179. I am at the bed row with the group. I will try the bed south of me once the enderman is gone."}
+- 22:48 act: {"actions":[{"do":"wait","seconds":90}]}
+- 22:50 act: {"actions":[{"do":"use","at":{"x":-945,"y":73,"z":-3048},"item":"wooden_sword"}]}
+- 22:50 act: {"actions":[{"do":"wait","seconds":60},{"do":"sleep"}]}
+- 22:51 act: {"actions":[{"do":"sleep"}]}
+- 22:56 act: {"actions":[{"do":"goto","target":{"x":-938,"y":73,"z":-3049}}],"say":"Zheng He, day 1179. Health and hunger 20. Moving a few blocks east to the chests, keeping the group in sight, away from the ender
+- 22:56 act: {"actions":[{"do":"goto","target":{"x":-939,"y":73,"z":-3049}}],"say":"Zheng He here, dawn 1179, health and hunger 20. Staying with the group at the chests, away from the enderman. Anyone weak who nam
+- 22:56 act: {"actions":[{"do":"use","at":{"x":-946,"y":73,"z":-3049},"item":"wooden_sword"}],"say":"Holding my wooden sword now, near the group. Bread and carrots for anyone weak who names themselves."}
+- 22:56 act: {"actions":[],"say":"Still carrying the sword in my pack; the crafting table would not take it in hand. I'll stay here with the group and keep watch."}
+- 23:13 act: {"actions":[{"do":"goto","target":{"x":-938,"y":73,"z":-3049}}],"say":"Zheng He, dawn 1180. Awake, health 20, hunger 20. Staying in the group's sight, away from the enderman."}
+- 23:13 act: {"actions":[{"do":"goto","target":{"x":-934,"y":73,"z":-3049}}]}
+- 23:13 act: {"actions":[{"do":"goto","target":{"x":-930,"y":73,"z":-3044}}]}
+- 23:13 act: {"actions":[{"do":"use","at":{"x":-930,"y":70,"z":-3044},"item":"wooden_sword"}]}
+- 23:17 act: {"actions":[],"say":"Zheng He, midday 1180. Health 20, hunger 20, 2 bread and 2 carrots. Furiosa and Zack are weakest. If you are alone within my reach, say your name and the bread is yours. I am stay
+- 23:34 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Zheng He, morning 1181, hunger 20, health 20. Holding at the Stores in sight. I have 2 bread; if I am weakest and alone in your reach, say so."}
+- 23:42 act: {"actions":[{"do":"goto","target":{"x":-947,"y":73,"z":-3047}}]}
