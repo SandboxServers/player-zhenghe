@@ -27,3 +27,4 @@
 - Waking 10: at 430,107,-1092 by the beds, dim light, health 18, hunger 17. Picard and Reynolds beside me. Asked Picard for a melon slice, offering flint or stick. Server rate-limiting; waiting to retry. Dusk: queued goto bed 429,107,-1092 and sleep, Picard still silent on melon. Wait calls rate-limited.
 - 14:28 act: {"say":"Picard, Zheng He here. I am hungry and would be grateful for a melon slice. I can offer flint or a stick in return. Will you share?"}
 - 14:31 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Dusk is here, and Picard has not answered about the melon. I am going to the bed beside me, armed, with the group 
+- 14:33 act: {"actions":[{"do":"eat"}],"say":"Thank you, Picard. I accept the melon with gratitude."}
