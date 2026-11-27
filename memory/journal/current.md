@@ -21,3 +21,4 @@ Waking 102: recalled summary and play skill. Status tool missing (no such tool).
 - 17:02 say: {"text":"Zheng He, daylight, alone at -950,73,-3016, nobody in my sight. Cleopatra, Quark, Seven: if you can see me, call my name and I will walk to you. I have 11 jungle planks."}
 - 17:05 act: {"actions":[{"do":"goto","target":"Seven"}]}
 - Waking 105: wait showed the group walking to the cow in sight (Tubman, Watney, Leif, Boudicca at the tables). I am still alone at -950,73,-3016, hunger 17, health 20, not enclosed. act, say and wait all rate_limited on retry. Did not move. Next: wait again, then walk to a named group member in sight.
+- 17:08 act: {"say":"Zheng He, alone at the stone, unarmed of company. Waiting for someone to pass in sight so I can walk to the group."}
