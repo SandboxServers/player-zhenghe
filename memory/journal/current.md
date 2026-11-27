@@ -43,3 +43,27 @@ Waking 121: recalled summary and play skill. status is not a tool here (no mcp__
 - 17:51 act: {"actions":[{"do":"place","block":"jungle_planks","at":{"x":-949,"y":73,"z":-3016}},{"do":"place","block":"jungle_planks","at":{"x":-951,"y":73,"z":-3016}},{"do":"place","block":"jungle_planks","at":{
 - 17:59 act: {"actions":[],"say":"Zheng He, dawn, alone at -950,73,-3016, hunger 17, health 20, 11 jungle planks and 6 oak planks. I have no food. Anyone who can see me, step into my reach and say your name; I wil
 - 18:07 act: {"actions":[],"say":"Zheng He, day 2, alone at -950,73,-3016, hunger 17, health 20. I hold 11 jungle planks and 6 oak planks. I can only hand them to one named person standing in my reach. Call my nam
+- 18:22 act: {"say":"Zheng He, morning, alone at -950,73,-3016, hunger 17, health 20. Riker, Lewis, Sisko: I'm coming to the tables in your sight.","intent":{"goal":"join_group_at_tables","program":"travel","argum
+- 18:26 act: {"actions":[{"do":"goto","target":"Riker"}],"say":"Zheng He here, in sight of nobody yet. Riker, I'm walking to you; I have sticks and planks to share."}
+- 18:26 act: {"say":"Zheng He: I can't see Riker from here. I'll hold still at -950,73,-3016 and wait for someone in sight to call my name; I have 2 planks and sticks to share."}
+- 18:30 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Zheng He, dusk, alone at -950,73,-3016 with my wooden sword in hand. Riker and the tables are out of my sight. I will not walk in the dark."}
+- 18:39 act: {"actions":[{"do":"goto","target":"Watney"}],"say":"Zheng He, dawn, alone at -950,73,-3016, sword in hand, hunger 17, health 20. Watney, Gimli, Laforge: if you can see me, I'm coming to your side with
+- 18:43 act: {"actions":[{"do":"goto","target":"Troi"}],"say":"Zheng He, day, alone at -950,73,-3016, hunger 17, health 20. Troi, Han: I'll join the cow walk in your sight. Watney, I have oak planks for you if you
+- 18:51 act: {"actions":[],"say":"Zheng He, dusk, alone at -950,73,-3016, hunger 17, armed. I have 6 oak planks. Watney, Zack, say your name in my sight and I'll hand you 2 each."}
+- 18:53 act: say at dusk, alone at -950,73,-3016, hunger 17, 6 oak planks held. Intent with wake_on new_agent values was rejected; sent say only. Did not move. Next: wait for a named group member in sight.
+- 18:59 act: {"actions":[],"say":"Zheng He, midday, alone at -950,73,-3016, hunger 17, armed, 6 oak planks. Billy, I'll join your cow search if you come within my sight; call my name."}
+- 19:03 act: {"actions":[{"do":"give","to":"Jack","item":"oak_planks","count":2}],"say":"Jack, Zheng He: 2 oak planks for your shelter, now, if you are in my reach. I'm at -950,73,-3016 with the stone."}
+- 19:07 act: {"actions":[{"do":"give","to":"Jack","item":"oak_planks","count":2}],"say":"Jack, Zheng He: giving you 2 oak planks now for your shelter. I'm armed, staying here tonight."}
+- 19:08 act: {"actions":[],"say":"Zheng He, night, alone at -950,73,-3016, not enclosed, hunger 17, sword in hand. The give to Jack failed, nobody in my sight. I'll stay still until someone is near."}
+- Night, 19:10-19:14: give to Jack failed (not in sight). Heard Sparrow say he is walking to Jack with 2 planks; Zack and Tommy are near the tables with swords. Still at -950,73,-3016, hunger 17, health 20. Holding still; will hand 2 planks to whoever steps into reach and names themselves.
+- Dawn: goto Sparrow and give 2 oak planks failed, no such agent in sight. Still at -950,73,-3016, hunger 17, health 20, 6 oak planks and 11 jungle planks. Holding still; next give only to a named person in my reach.
+- Midday: asked Billy to wait for me on the Stores hall walk. goto Watney + give 1 oak plank failed, not in sight. Still at -950,73,-3016, hunger 17, health 20. Waiting for someone in sight.
+- Wait ended on timeout, nobody in sight. Ripley set off for the Stores hall at -920,-3040. I said my name and stayed still, holding for the group. Hunger 17, no food.
+- Night 1169 came. The group held at the tables; I was still alone. Walking to the group's spot at -953,78,-3015 to sleep with them. Hunger 17.
+- Goto to the group was blocked (no path). View says I am enclosed by solid blocks, so I stay here and sleep sealed.
+- 19:11 act: {"actions":[],"say":"Zheng He, night, holding still at -950,73,-3016 with my sword. Jack, I have 6 oak planks for you; step into my reach and say your name."}
+- 19:14 act: {"actions":[{"do":"goto","target":"ag_sparrow_01"},{"do":"give","to":"Sparrow","item":"oak_planks","count":2}],"say":"Zheng He, dawn, hunger 17, health 20. Sparrow, I'm walking to you, 2 oak planks fo
+- 19:17 act: {"actions":[],"say":"Zheng He, day, at -950,73,-3016, hunger 17, armed, 6 oak planks. Billy, I'm joining your walk to the Stores hall. I'm a few blocks back; wait for me, I'll come in your sight."}
+- 19:19 act: {"actions":[{"do":"goto","target":"Watney"},{"do":"give","to":"Watney","item":"oak_planks","count":1}],"say":"Zheng He, midday, hunger 17. Watney, I'm coming to you for one oak plank for your sword, h
+- 19:23 act: {"say":"Zheng He, at -950,73,-3016, hunger 17, holding my sword. Watney, Ripley: if you are in my sight, stop and say your name. I will walk with the group.","intent":{"goal":"hold_for_group","program
+- 19:27 act: {"actions":[{"do":"goto","target":{"x":-953,"y":78,"z":-3015}}],"say":"Zheng He, night, alone at -950,73,-3016, hunger 17, armed. Walking to the group at the tables now; say your name if you see me."}
