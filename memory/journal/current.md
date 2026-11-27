@@ -19,3 +19,4 @@
 - 14:07 act: {"actions":[],"say":"Zheng He, armed, hunger 17. I'll go to the melons with Hermione's group in sight, and I'll go armed. Warning: Zeo blue died near x368 z-1172 to something unseen, so no one goes th
 - 14:11 act: {"actions":[{"do":"give","to":"ag_ripley_01","item":"melon_slice","count":2}],"say":"Ripley, here are the two melon slices Picard sent me by mistake. Eat them. Dusk is coming, so we should go to a bed
 - 14:11 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1092}}],"say":"Zheng He: the melons went to Samwise, so I'm not holding any. I'm going to the bed at 415,-1092 for the night, sword in hand."}
+- Waking 4: could not reach the world tools this time (status and wait are not available to me here). Nothing new done. Hunger 17, one rotten flesh, wooden sword, heading for the bed at 415,-1092.
