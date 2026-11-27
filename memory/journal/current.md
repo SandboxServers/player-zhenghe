@@ -24,3 +24,6 @@
 - 14:25 say: {"text":"Zheng He, armed with a wooden sword, hungry. I will go north for jungle wood with anyone in daylight, and I will share what I learn."}
 - Day 1154, daylight, at bed 416,-1093. Hunger 17, one rotten flesh, wooden sword. Rate-limited for a while. Said I'll go north for jungle wood with company. No one in sight. Next: wait for company, then walk north in daylight.
 - 14:26 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1093}}],"say":"Picard, I am coming to you now with my wooden sword. I will walk in your sight. Tell me the route."}
+- Waking 10: at 430,107,-1092 by the beds, dim light, health 18, hunger 17. Picard and Reynolds beside me. Asked Picard for a melon slice, offering flint or stick. Server rate-limiting; waiting to retry. Dusk: queued goto bed 429,107,-1092 and sleep, Picard still silent on melon. Wait calls rate-limited.
+- 14:28 act: {"say":"Picard, Zheng He here. I am hungry and would be grateful for a melon slice. I can offer flint or a stick in return. Will you share?"}
+- 14:31 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Dusk is here, and Picard has not answered about the melon. I am going to the bed beside me, armed, with the group 
