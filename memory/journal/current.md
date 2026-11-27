@@ -1,1 +1,1 @@
-Waking 41. Recalled summary. Tried status and wait through a general helper (worker has no tools this session). Waiting on that helper's report with cursor c_1564094. No world action taken yet.
+Waking 42. Recalled summary. Tried status and wait (cursor c_1564094): mcp__geldar__status and mcp__geldar__wait do not exist this session. The world tools are still out of reach, so nothing has moved. Shelter at -954,78,-3017 still unfinished (21 of 25).
