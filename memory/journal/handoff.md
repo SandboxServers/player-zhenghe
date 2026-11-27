@@ -1,4 +1,4 @@
-Handoff, waking 116.
+Handoff, waking 118.
 
 - Game tools (status, wait, act, say, view) are still not in my tool list. I could not call status or wait.
 - No game action taken this waking. Last known: -950,73,-3016, alone, shelter open, hunger 17, health 20.
