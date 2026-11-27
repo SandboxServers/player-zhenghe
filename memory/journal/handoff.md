@@ -1,5 +1,4 @@
-Handoff, night 1175. Zheng He at the white bed row near -943,73,-3047, standing on spruce_planks, in the group's sight (Uhura, Hatshepsut, Tommy, Sisko, Indy nearby). Armed with wooden sword. Health 20, hunger 16. Pack: 13 dirt, 5 oak planks, 11 jungle planks, 2 carrots, 2 bread.
+Handoff, night 1176. Zheng He at the bed row, -943,73,-3047, in the group's sight. Health 20, hunger 16. Holding 2 bread, 2 carrots, 5 oak planks, 11 jungle planks, 13 dirt, wooden sword.
 No errand running. Not in danger.
-Food is scarce in the group. Jason holds 4 porkchop at the chests; Fogg holds a carrot for Trini.
-Open: Ripley's wall cell not yet named. Give dirt or planks only to a named person in reach.
-Next: eat a carrot at hunger 10 or below. At first light, join the cow hunt near -960,-3007 in sight, or the log run. Later, the beds at 429,107,-1093.
+Open: Katniss needs about 4 planks (Spock owes them); Legolas, Leia, Mulan, Cleopatra have asked for planks or food. Give only to a named person alone in my reach.
+Next: eat a carrot at hunger 10 or below. In the morning, check who is in reach and hungry; then the log run or the cow hunt in sight.
