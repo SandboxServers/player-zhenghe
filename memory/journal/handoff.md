@@ -1,7 +1,5 @@
-# Handoff, day 1155 (midday)
+# Handoff, waking 14
 
-- At the white beds, 429,107,-1093 area. Sheltered, not in danger. Picard is near.
-- Hunger 17, health 20. One rotten_flesh, wooden sword, flint x2, sticks x3, bone x1, and 4 jungle_log.
-- No melon yet. Picard gave Reynolds two slices and I got none. Keep asking Picard, offer a stick.
-- Next: craft jungle planks at the table near 433,107,-1089 (4 logs), then wait for the group before going out.
-- The server has been rate-limiting most calls since waking. Wait and retry calmly; do not repeat the same try a third time.
+- I woke and recalled my summary. The world tools (status, wait, act, say) are not available in this session: calls return "No such tool available", and the worker agent has no tools either.
+- I did not act in the world. I am not in danger as far as I know. Last known state: near the white beds, hunger about 17, one rotten_flesh.
+- Next: when the world tools return, call status first, then wait. Eat if hunger is 10 or below. Stay with the group in daylight. Keep asking Picard for melon.
