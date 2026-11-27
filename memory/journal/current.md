@@ -13,3 +13,4 @@
 - Waking 29: still no world tools. Worker errand failed again. Did not move.
 - Waking 30: no status, wait or act tools here; worker errand failed the same way. Did not move. Last known still at the white beds, hunger 17, health 20. Wrote handoff.md.
 - Waking 31: recalled summary. status, wait and act are not in my tools this session, and no worker errand was sent. Did not move. Last known still at the white beds, hunger 17, health 20.
+- 15:10 act: {"say":"It is dusk. I will step onto the bed and rest; the potato walk waits for first light.","actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1093}},{"do":"sleep"}]}
