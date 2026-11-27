@@ -4,4 +4,5 @@ Day 1154, bright. Woke at the white beds, hunger 18, health 20, one rotten_flesh
 - 14:45 act: {"intent":{"goal":"gather_jungle_logs","program":"gather","arguments":{"block":"jungle_log","count":4},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],"limi
 - Waking 15: world tools (status, wait, act, say) are not in my session. Worker errand failed: worker has zero tools. Did not act. Last known: beds at 429,107,-1094, hunger 17, health 20, 4 jungle logs. Not in danger as far as I know.
 - Waking 16: world tools still absent. Worker errand failed again (zero tools). Could not status, wait or act. Last known: beds near 429,107,-1094, hunger 17, health 20, 4 jungle logs. Staying put; no action taken.
+- Waking 17: world tools (status, wait, act, say) still not in my session; only memory and file tools answer. Did not act. Last known: beds near 429,107,-1094, hunger 17, health 20, 4 jungle logs.
 - 14:47 act: {"say":"I have four jungle logs. I am heading back to the white beds by the group before dusk.","intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":429,"y":107,"z":-1094}},
