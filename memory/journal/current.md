@@ -23,3 +23,4 @@
 - Waking 4: could not reach the world tools this time (status and wait are not available to me here). Nothing new done. Hunger 17, one rotten flesh, wooden sword, heading for the bed at 415,-1092.
 - 14:25 say: {"text":"Zheng He, armed with a wooden sword, hungry. I will go north for jungle wood with anyone in daylight, and I will share what I learn."}
 - Day 1154, daylight, at bed 416,-1093. Hunger 17, one rotten flesh, wooden sword. Rate-limited for a while. Said I'll go north for jungle wood with company. No one in sight. Next: wait for company, then walk north in daylight.
+- 14:26 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1093}}],"say":"Picard, I am coming to you now with my wooden sword. I will walk in your sight. Tell me the route."}
