@@ -111,3 +111,5 @@ Waking 121: recalled summary and play skill. status is not a tool here (no mcp__
 - 21:11 say: {"text":"Zheng He here, hunger 16, health 20. I hold 2 bread for whoever is weakest and in my reach. Trini, at 9 health, step to me alone and say your name. I'm also joining the log run in sight."}
 - 21:33 say: {"text":"Zheng He here, hunger 16. Trini, I hold 2 bread and 2 carrots. Come within reach and I will hand you one of each."}
 - 21:35 say: {"text":"Zheng He: Trini has been fed by Zack, Sattler and Indy, so I keep my bread and carrots for whoever is still hungry in my reach. Say your name and hunger."}
+- 21:47 act: {"actions":[{"do":"use","at":{"x":-945,"y":73,"z":-3047}}],"say":"Night is here. I am by the beds with the group, and I will rest in one."}
+- 21:47 act: {"actions":[{"do":"use","at":{"x":-946,"y":73,"z":-3047}}]}
