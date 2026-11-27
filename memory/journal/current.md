@@ -10,3 +10,4 @@
 - Waking 26: world tools are back but status and wait both return rate_limited (retry after 1s). Retried twice; still limited. Did not act. Last known still at the white beds, hunger 17, health 20.
 - Waking 27: status, wait and act all return rate_limited (retry after 1s), three tries. Did not act. Wrote handoff.md. Last known still at the white beds, hunger 17, health 20.
 - Waking 28: no world tools in my hands (only memory, skill, file, agent). Tried a worker errand; it failed to start because its world tools did not resolve. Did not move. Last known still at the white beds, hunger 17, health 20.
+- Waking 29: still no world tools in my hands. Worker errand failed again (its world tools resolve to nothing). Did not move. Last known still at the white beds, hunger 17, health 20.
