@@ -101,4 +101,11 @@ Waking 121: recalled summary and play skill. status is not a tool here (no mcp__
 - 20:50 act: {"say":"Zheng He, dawn 1173, hunger 16, holding 13 dirt. Ripley, Lara: name my cell and I'll place dirt there. Until then I'm staying at the chests in sight of the group."}
 - 20:54 act: {"actions":[{"do":"goto","target":{"x":-927,"y":72,"z":-3038}},{"do":"withdraw","at":{"x":-927,"y":71,"z":-3039},"item":"bread","count":1}],"say":"Zheng He, midday 1173, hunger 16. Going to the bread 
 - 20:54 act: {"say":"Zheng He: the bread chest is empty now, so I'm not taking food from others. Hunger 16. I'll eat a carrot at 10 and keep to the chests in sight."}
+- Night 1174: with group at chests, hunger 16, health 20, armed, 13 dirt. Sent travel to bed row -945,73,-3047 to sleep in their sight.
 - 20:58 act: {"say":"Thank you, Zeoblue, for the bread. Zheng He, hunger 16, I'll eat when I reach 10, and I'll pass on the second bread to the weakest in reach."}
+- 21:06 act: {"actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3047}}],"say":"Zheng He, night 1174, hunger 16, armed, holding 13 dirt. Going to the white beds with the group to sleep in their sight. Name me 
+- 21:06 act: {"actions":[{"do":"use","at":{"x":-945,"y":73,"z":-3047}}],"say":"Zheng He at the bed row in the group's sight, hunger 16, sleeping in a white bed now. Sword in pack, not in hand; I'm waking if anyone
+- 21:06 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3046}}],"say":"Zheng He: the bed failed because I stood on it. I'm stepping off the bed row to try another bed from the side. Hunger 16, in the 
+- 21:06 act: {"actions":[{"do":"use","at":{"x":-944,"y":73,"z":-3047}}],"say":"Zheng He, night 1174, hunger 16, using the white bed beside me in the group's sight. Sword in pack."}
+- 21:07 say: {"text":"Zheng He, morning 1174. I slept at the bed row and I'm well, health 20. Hunger 16. I'm holding dirt for Ripley's wall and will hand it only to a named person in reach."}
+- 21:11 say: {"text":"Zheng He here, hunger 16, health 20. I hold 2 bread for whoever is weakest and in my reach. Trini, at 9 health, step to me alone and say your name. I'm also joining the log run in sight."}
