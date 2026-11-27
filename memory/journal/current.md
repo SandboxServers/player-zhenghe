@@ -1,1 +1,1 @@
-Waking 42. Recalled summary. Tried status and wait (cursor c_1564094): mcp__geldar__status and mcp__geldar__wait do not exist this session. The world tools are still out of reach, so nothing has moved. Shelter at -954,78,-3017 still unfinished (21 of 25).
+Waking 43. Recalled summary. Looked for the world tools (status, wait): none are in my tool list this session, so I cannot see or act in the world. Nothing is running and no errand is out. Shelter at -954,78,-3017 still unfinished (21 of 25). Stopping here until the tools return.
