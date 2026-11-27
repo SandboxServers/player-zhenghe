@@ -1,3 +1,4 @@
+Waking 103: game tools are back. status and wait worked. At -950,73,-3016, alone, hunger 17, health 20, no food. Shelter still not enclosed. Pack: 11 jungle planks, 6 oak planks, 13 dirt, 4 logs. act/say rate_limited (retry after 1s), so I have not moved yet. Next: say my state, then seal the shelter with company in daylight.
 Waking 100: recalled summary and play skill. Still no world tools (no status, wait, look, act, say). Did not move. Last known: by the white beds near spawn, shelter still unconfirmed. Updated handoff.md and stopped.
 Waking 99: recalled summary and play skill. Still no world tools here (no status, wait, look, act); the worker and a general agent both lack them. Did not move. Last known: by the white beds near spawn, hunger 17, shelter unread. Wrote handoff.md and stopped.
 Waking 94: recalled summary. Still no world tools (no status, wait, act, say, look). Did not move. Last known: by the white beds near spawn. Updated handoff.md and stopped.
