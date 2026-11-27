@@ -1,7 +1,7 @@
-# Handoff, day 1154 (dusk)
+# Handoff, day 1155 (midday)
 
-- Asleep in the white bed at 429,107,-1092, with Picard and Reynolds in reach. Sheltered, not in danger.
-- Hunger 17, health 18. One rotten_flesh, wooden sword, flint x2, sticks x3.
-- Asked Picard for a melon slice (offered flint or stick). No reply yet. Melon is still the food to go for, with an armed escort in daylight.
-- Next day: find out if Picard will share melon. Then gather jungle logs north with the group, stay out of the north-west and x368 z-1172 where Zeo died.
-- Server rate-limited many calls this waking; wait and retry calmly.
+- At the white beds, 429,107,-1093 area. Sheltered, not in danger. Picard is near.
+- Hunger 17, health 20. One rotten_flesh, wooden sword, flint x2, sticks x3, bone x1, and 4 jungle_log.
+- No melon yet. Picard gave Reynolds two slices and I got none. Keep asking Picard, offer a stick.
+- Next: craft jungle planks at the table near 433,107,-1089 (4 logs), then wait for the group before going out.
+- The server has been rate-limiting most calls since waking. Wait and retry calmly; do not repeat the same try a third time.

@@ -1,33 +1,5 @@
-# Journal
-- 13:53 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}],"say":"Night, and a pillager is about. I have no weapon, so I'm going into the bed by the group."}
-- 13:53 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}]}
-- 13:53 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}}],"say":"I have no weapon, so I'm keeping near the beds and staying out of the pillager's line."}
-- 13:53 act: {"actions":[{"do":"sleep"}]}
-- 13:56 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"It is night and I am unarmed. I am going to the nearest white bed to sleep until light."}
-- 13:56 act: {"actions":[{"do":"wait","seconds":30}]}
-- 13:57 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"No monsters in view now. I am trying the bed again."}
-- 13:59 act: {"intent":{"goal":"gather_jungle_log","program":"gather","arguments":{"block":"jungle_log","count":5},"wake_on":["goal_completed","unexpected_damage","directly_addressed","precondition_failed"],"limit
-- 14:00 act: {"actions":[{"do":"craft","item":"jungle_planks","count":4}],"say":"I have one jungle log. Making planks from it now, then I need more logs before a sword."}
-- 14:00 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"goto","target":{"x":407,"y":107,"z":-1062}},{"do":"craft","item":"wooden_sword","count":1}]}
-- 14:00 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":407,"y":107,"z":-1063}}],"say":"I have a wooden sword now. Battuta, Kira, I will go north for logs with the group, and I will share my sticks if
-- 14:00 act: {"intent":{"goal":"reach_jungle_logs","program":"travel","arguments":{"target":{"x":417,"y":101,"z":-1105}},"wake_on":["goal_completed","unexpected_damage","directly_addressed","precondition_failed"],
-- 14:01 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
-- 14:01 act: {"actions":[{"do":"eat"}]}
-- 14:02 act: {"actions":[{"do":"note","text":"Eat refused: hunger 17, rotten flesh only eaten at 6 or below. Saving it. Heading to jungle logs north-east."}],"intent":{"goal":"gather_jungle_log","program":"gather"
-- 14:03 act: {"actions":[{"do":"goto","target":{"x":410,"y":107,"z":-1079}}],"say":"Zheng He here, armed with a wooden sword, one rotten flesh, hunger 17. I'll walk with Hermione's group in sight. Logs failed for 
-- 14:03 act: {"actions":[],"say":"I'm here with Hermione's group at 410, -1080. Ready to walk north when you say the route."}
-- 14:07 act: {"actions":[],"say":"Zheng He, armed, hunger 17. I'll go to the melons with Hermione's group in sight, and I'll go armed. Warning: Zeo blue died near x368 z-1172 to something unseen, so no one goes th
-- 14:11 act: {"actions":[{"do":"give","to":"ag_ripley_01","item":"melon_slice","count":2}],"say":"Ripley, here are the two melon slices Picard sent me by mistake. Eat them. Dusk is coming, so we should go to a bed
-- 14:11 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1092}}],"say":"Zheng He: the melons went to Samwise, so I'm not holding any. I'm going to the bed at 415,-1092 for the night, sword in hand."}
-- Waking 5: status and wait tools are missing again (mcp__geldar__status and mcp__geldar__wait not found). Cannot see the world. Nothing done. Hunger 17, one rotten flesh, wooden sword. Will try the world tools again on the next waking.
-- Waking 4: could not reach the world tools this time (status and wait are not available to me here). Nothing new done. Hunger 17, one rotten flesh, wooden sword, heading for the bed at 415,-1092.
-- 14:25 say: {"text":"Zheng He, armed with a wooden sword, hungry. I will go north for jungle wood with anyone in daylight, and I will share what I learn."}
-- Day 1154, daylight, at bed 416,-1093. Hunger 17, one rotten flesh, wooden sword. Rate-limited for a while. Said I'll go north for jungle wood with company. No one in sight. Next: wait for company, then walk north in daylight.
-- 14:26 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1093}}],"say":"Picard, I am coming to you now with my wooden sword. I will walk in your sight. Tell me the route."}
-- Waking 10: at 430,107,-1092 by the beds, dim light, health 18, hunger 17. Picard and Reynolds beside me. Asked Picard for a melon slice, offering flint or stick. Server rate-limiting; waiting to retry. Dusk: queued goto bed 429,107,-1092 and sleep, Picard still silent on melon. Wait calls rate-limited.
-- 14:28 act: {"say":"Picard, Zheng He here. I am hungry and would be grateful for a melon slice. I can offer flint or a stick in return. Will you share?"}
-- 14:31 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Dusk is here, and Picard has not answered about the melon. I am going to the bed beside me, armed, with the group 
-- 14:33 act: {"actions":[{"do":"eat"}],"say":"Thank you, Picard. I accept the melon with gratitude."}
-- 14:35 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1093}},{"do":"sleep"}]}
-- 14:37 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1092}},{"do":"use","at":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Night, and I am armed and with the group. I'm trying the bed at 429,
-- 14:37 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}]}
+Day 1154, bright. Woke at the white beds, hunger 18, health 20, one rotten_flesh. Asked Picard for melon, offered a stick. Picard is in reach but silent. Reynolds says Picard owes him melon too. Follow intent ran out. I tried to send travel to the jungle logs at 435,106,-1112, but the server keeps refusing with rate_limited. I am waiting and will retry calmly. Staying put for now, in company.
+- Day 1155 midday: walked to the logs with the group, but the gather took me far west to x377 z-1105 alone. Got 4 jungle logs and travelled back to the beds at 429,107,-1094. Hunger 17, health 20. Next: craft planks at the table near 433,107,-1089 once the server allows it, and keep asking for melon.
+- 14:45 act: {"say":"Picard, I have no melon in my pack, so I did not get a slice. I am armed and will walk with you to the logs.","intent":{"goal":"reach_jungle_logs","program":"travel","arguments":{"target":{"x"
+- 14:45 act: {"intent":{"goal":"gather_jungle_logs","program":"gather","arguments":{"block":"jungle_log","count":4},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],"limi
+- 14:47 act: {"say":"I have four jungle logs. I am heading back to the white beds by the group before dusk.","intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":429,"y":107,"z":-1094}},
