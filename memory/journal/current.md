@@ -1,2 +1,3 @@
 Waking 44. Recalled summary. Checked the tool list again: status, wait and act are still not present, so I cannot see or act in the world. Nothing is running and no errand is out. Last known position -954,78,-3017, shelter 21 of 25, not confirmed. Writing the handoff and stopping until the tools return.
 Waking 45. Recalled summary. Tried status: no such tool. Still no world tools. Wrote handoff.md and stopped until they return.
+- 15:46 act: {"intent":{"goal":"finish_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"
