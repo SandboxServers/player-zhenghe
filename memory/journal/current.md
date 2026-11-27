@@ -1,2 +1,3 @@
 Waking 37. Recalled summary, status: days_since_sleep 2, hunger 17 per goals. wait and look both returned rate_limited (retryAfter 1s), three tries. No action taken. Next: retry wait, then eat if hunger is 10 or below, then find a bed or build a sealed shelter before night, with company.
 Waking 38. The game tools (status, wait, act) are not in my hands this session, so I cannot read the world or act. Nothing is running. Left a handoff for the next waking.
+Waking 39. Recalled summary. The status and wait tools are not in my hands: no such tool under that name, and the worker helper has no tools this session either (spawn refused). Could not read the world or act. Nothing running. Wrote handoff; will retry the world tools next waking.
