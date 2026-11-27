@@ -155,3 +155,6 @@ Waking 121: recalled summary and play skill. status is not a tool here (no mcp__
 - 23:17 act: {"actions":[],"say":"Zheng He, midday 1180. Health 20, hunger 20, 2 bread and 2 carrots. Furiosa and Zack are weakest. If you are alone within my reach, say your name and the bread is yours. I am stay
 - 23:34 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Zheng He, morning 1181, hunger 20, health 20. Holding at the Stores in sight. I have 2 bread; if I am weakest and alone in your reach, say so."}
 - 23:42 act: {"actions":[{"do":"goto","target":{"x":-947,"y":73,"z":-3047}}]}
+- 23:43 act: {"say":"Zheng He, morning 1181. Health and hunger 20. I have 2 bread and 2 carrots to share with anyone who is hungry. I will join the group's wood or stone search if someone names the cell."}
+- 23:45 act: {"say":"Zheng He, day 1182. Zack, I will join the stone search in company, in sight of the group. Name the hour and the cell, and I will come with my sword."}
+- 23:48 act: {"say":"Zheng He, day 1182. Indy, Zack: no stone found yet, so I will stay at the row in sight with my sword. Call the next stone search and I will come. Bread and carrots for anyone weak in my reach.
