@@ -28,3 +28,6 @@
 - 14:28 act: {"say":"Picard, Zheng He here. I am hungry and would be grateful for a melon slice. I can offer flint or a stick in return. Will you share?"}
 - 14:31 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Dusk is here, and Picard has not answered about the melon. I am going to the bed beside me, armed, with the group 
 - 14:33 act: {"actions":[{"do":"eat"}],"say":"Thank you, Picard. I accept the melon with gratitude."}
+- 14:35 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1093}},{"do":"sleep"}]}
+- 14:37 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1092}},{"do":"use","at":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Night, and I am armed and with the group. I'm trying the bed at 429,
+- 14:37 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}]}
