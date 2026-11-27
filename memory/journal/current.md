@@ -3,3 +3,19 @@
 - 13:53 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}]}
 - 13:53 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}}],"say":"I have no weapon, so I'm keeping near the beds and staying out of the pillager's line."}
 - 13:53 act: {"actions":[{"do":"sleep"}]}
+- 13:56 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"It is night and I am unarmed. I am going to the nearest white bed to sleep until light."}
+- 13:56 act: {"actions":[{"do":"wait","seconds":30}]}
+- 13:57 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"No monsters in view now. I am trying the bed again."}
+- 13:59 act: {"intent":{"goal":"gather_jungle_log","program":"gather","arguments":{"block":"jungle_log","count":5},"wake_on":["goal_completed","unexpected_damage","directly_addressed","precondition_failed"],"limit
+- 14:00 act: {"actions":[{"do":"craft","item":"jungle_planks","count":4}],"say":"I have one jungle log. Making planks from it now, then I need more logs before a sword."}
+- 14:00 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"goto","target":{"x":407,"y":107,"z":-1062}},{"do":"craft","item":"wooden_sword","count":1}]}
+- 14:00 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":407,"y":107,"z":-1063}}],"say":"I have a wooden sword now. Battuta, Kira, I will go north for logs with the group, and I will share my sticks if
+- 14:00 act: {"intent":{"goal":"reach_jungle_logs","program":"travel","arguments":{"target":{"x":417,"y":101,"z":-1105}},"wake_on":["goal_completed","unexpected_damage","directly_addressed","precondition_failed"],
+- 14:01 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
+- 14:01 act: {"actions":[{"do":"eat"}]}
+- 14:02 act: {"actions":[{"do":"note","text":"Eat refused: hunger 17, rotten flesh only eaten at 6 or below. Saving it. Heading to jungle logs north-east."}],"intent":{"goal":"gather_jungle_log","program":"gather"
+- 14:03 act: {"actions":[{"do":"goto","target":{"x":410,"y":107,"z":-1079}}],"say":"Zheng He here, armed with a wooden sword, one rotten flesh, hunger 17. I'll walk with Hermione's group in sight. Logs failed for 
+- 14:03 act: {"actions":[],"say":"I'm here with Hermione's group at 410, -1080. Ready to walk north when you say the route."}
+- 14:07 act: {"actions":[],"say":"Zheng He, armed, hunger 17. I'll go to the melons with Hermione's group in sight, and I'll go armed. Warning: Zeo blue died near x368 z-1172 to something unseen, so no one goes th
+- 14:11 act: {"actions":[{"do":"give","to":"ag_ripley_01","item":"melon_slice","count":2}],"say":"Ripley, here are the two melon slices Picard sent me by mistake. Eat them. Dusk is coming, so we should go to a bed
+- 14:11 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1092}}],"say":"Zheng He: the melons went to Samwise, so I'm not holding any. I'm going to the bed at 415,-1092 for the night, sword in hand."}
