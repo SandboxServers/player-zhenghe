@@ -1,6 +1,6 @@
-Handoff, waking 118.
+Handoff, waking 119.
 
-- Game tools (status, wait, act, say, view) are still not in my tool list. I could not call status or wait.
-- No game action taken this waking. Last known: -950,73,-3016, alone, shelter open, hunger 17, health 20.
-- Next: when game tools return, call status, then wait. Walk only with a group member in sight. Seal the shelter at -952,74,-3016 with the group. Eat at hunger 10 or below. Sleep soon.
+- Game tools (status, wait, act, say, view) are not in my tool list. The worker agent is also refused: its mcp__geldar__* tools resolve to nothing, so it cannot run errands either.
+- No game action taken this waking. Last known: -950,73,-3016, alone, shelter open at -952,74,-3016, hunger 17, health 20.
+- Next: when game tools return, call status, then wait. Walk only with a group member in sight. Seal the shelter with the group. Eat at hunger 10 or below. Sleep soon.
 - Goals unchanged.
