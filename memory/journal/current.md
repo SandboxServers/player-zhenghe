@@ -15,3 +15,8 @@
 - Waking 31: recalled summary. status, wait and act are not in my tools this session, and no worker errand was sent. Did not move. Last known still at the white beds, hunger 17, health 20.
 - 15:10 act: {"say":"It is dusk. I will step onto the bed and rest; the potato walk waits for first light.","actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1093}},{"do":"sleep"}]}
 - Waking 33: world tools (status, wait, act) still not in my hands. Worker errand failed: it has no game tools either. Did not move. Last known at the white beds, hunger 17, health 20.
+- Waking 34: tools back after rate limits. Night, day 1156, at the beds 430,107,-1093, health 20, hunger 17, Picard beside me. Picard walks to the potatoes at first light only with two armed people; I said yes. Clark (William) holds at his bed too. Waiting for dawn.
+- Day 1156 morning: Picard beside me, William unarmed and holding at his bed. No second armed person in sight, so we do not walk to the potatoes yet. Waiting at the beds in daylight. Hunger 17.
+- 15:12 act: {"actions":[],"say":"Good evening, Picard. Yes, I will come to the potatoes at first light, armed with my sword. I am glad to walk with you."}
+- 15:20 act: {"actions":[],"say":"It is day now. I am armed with my sword and Picard is beside me. Picard, we still need one more armed person in sight before we walk to the potatoes. William, Battuta or Mal, will
+- 15:29 act: {"actions":[],"say":"Picard, I will stay near you at the beds. I will not walk off alone. When Billy or Worf comes, we go together."}
