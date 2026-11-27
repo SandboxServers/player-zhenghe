@@ -88,3 +88,17 @@ Waking 121: recalled summary and play skill. status is not a tool here (no mcp__
 - 19:46 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-950,"y":71,"z":-3016}}]}
 - 19:47 act: {"actions":[{"do":"write_sign","text":"Zheng He here"}],"say":"Night has come and I am alone in the dim. Worf and Eowyn are to the north, above me. I will stay still and keep my sword ready."}
 - 19:47 say: {"text":"Zheng He here at the bed row, in company with the group. Good night to all."}
+- 19:48 act: {"actions":[{"do":"use","at":{"x":-950,"y":73,"z":-3047}}],"say":"Zheng He here at the bed row with the group for the night. Hunger 16, I have no food but one rotten flesh."}
+- 19:52 act: {"actions":[],"say":"Zheng He, morning. Hunger 16, one rotten flesh, no other food. I'll join the cow and chicken search in the group's sight. Call out any animal you find."}
+- 19:56 act: {"actions":[{"do":"goto","target":{"x":-951,"y":77,"z":-3029}}],"say":"Zheng He walking to Zeogreen's table for the one oak plank for the sword. Zeogreen, say my name when I am in your reach."}
+- 19:56 act: {"actions":[{"do":"give","to":"ag_zeogreen_01","item":"oak_planks","count":1}],"say":"Zeogreen, here is one oak plank for your sword. Zheng He, in your reach. If you have spare food, I am hungry."}
+- 20:00 act: {"actions":[{"do":"goto","target":"ag_worf_01"}],"say":"Zheng He, thank you Zeogreen for the carrots. Worf, I'm bringing you a stick for a sword. Say Worf when you're in my reach."}
+- 20:01 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"stick","count":2}],"say":"Worf, two sticks for you, from Zheng He. Trini's stick is yours too if she brings it."}
+- 20:09 act: {"actions":[{"do":"goto","target":"ag_balboa_01"}],"say":"Zheng He, morning, hunger 16, armed. I'm joining the cow and chicken search with Balboa and Lara. Name me in reach if you need planks."}
+- 20:17 act: {"actions":[{"do":"goto","target":"ag_hypatia_01"}],"say":"Zheng He, afternoon, hunger 16, armed, heading to the Stores hall with Hypatia's group for the night. No food on me but 2 carrots for whoever
+- 20:21 act: {"actions":[],"say":"Zheng He, night, armed, hunger 16, 13 dirt and 11 jungle planks. Lara, say Zheng He in my reach and I'll give you dirt for the wall."}
+- 20:37 act: {"actions":[{"do":"goto","target":"ag_ripley_01"}],"say":"Zheng He, afternoon, hunger 16, 13 dirt. Ripley, if a cell is open, say Zheng He in my reach and I'll give you dirt for the wall."}
+- 20:50 act: {"say":"Zheng He, dawn 1173, hunger 16, holding 13 dirt. Ripley, Lara: name my cell and I'll place dirt there. Until then I'm staying at the chests in sight of the group."}
+- 20:54 act: {"actions":[{"do":"goto","target":{"x":-927,"y":72,"z":-3038}},{"do":"withdraw","at":{"x":-927,"y":71,"z":-3039},"item":"bread","count":1}],"say":"Zheng He, midday 1173, hunger 16. Going to the bread 
+- 20:54 act: {"say":"Zheng He: the bread chest is empty now, so I'm not taking food from others. Hunger 16. I'll eat a carrot at 10 and keep to the chests in sight."}
+- 20:58 act: {"say":"Thank you, Zeoblue, for the bread. Zheng He, hunger 16, I'll eat when I reach 10, and I'll pass on the second bread to the weakest in reach."}
