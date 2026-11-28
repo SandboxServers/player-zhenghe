@@ -15,3 +15,6 @@
 - 00:48 act: {"say":"Zheng He, morning at the row. Health and hunger 20. I hold 2 bread and 2 carrots for whoever is weakest; name yourself within reach. I will join the stone and wood search in your sight.","acti
 - 01:05 act: {"actions":[{"do":"note","text":"Morning 1186: food is covered by others. Joining Indy's stone run in daylight, in company."}],"say":"Zheng He here, health and hunger full. Indy, I'll walk with you fo
 - 01:07 act: {"actions":[{"do":"note","text":"Midday 1186: following Indy for the stone run with Marty, Lara, Sisko, Kat in sight. Keeping my bread and carrots for the weakest."}],"say":"Zheng He: I'm with Indy, M
+- 01:24 act: {"say":"Zheng He at the bed row, dusk 1186, health and hunger 20. Staying in the group's sight with my sword in hand. I hold 2 bread and 2 carrots for whoever is weakest and names themselves in reach.
+- 01:28 act: {"say":"Zheng He, morning 1187, health and hunger 20. Hatshepsut, I once dug stone at -950,73,-3016, north of the tables, in the pit and tunnel there. Go in company. I hold 2 bread and 2 carrots for t
+- 01:40 act: {"say":"Zheng He, morning 1188, health and hunger 20. Indy, I will walk with you and Cleopatra for stone to the south-west, in your sight. Sword in hand. Call out before you turn.","intent":{"goal":"f
