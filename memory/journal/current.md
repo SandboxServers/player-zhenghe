@@ -11,3 +11,7 @@
 - 00:21 act: {"actions":[{"do":"use","at":{"x":-950,"y":73,"z":-3047}}]}
 - 00:25 act: {"actions":[],"say":"Zheng He, morning 1184, health and hunger 20. I walk with Uhura's melon party in your sight. Clark, you are at 16: say your name within my reach and I will hand you bread.","inten
 - 00:33 act: {"say":"Zheng He, dusk 1184, health and hunger 20, sword in hand, holding at the row in sight. Clark, Trini: if you are hungry, say your name in my reach and I will hand you bread. Quark, if you need 
+- 00:46 act: {"say":"Zheng He at the bed row, night 1185, health and hunger 20. Sleeping here in the group's sight with my sword in hand.","actions":[{"do":"use","at":{"x":-948,"y":73,"z":-3047}}]}
+- 00:48 act: {"say":"Zheng He, morning at the row. Health and hunger 20. I hold 2 bread and 2 carrots for whoever is weakest; name yourself within reach. I will join the stone and wood search in your sight.","acti
+- 01:05 act: {"actions":[{"do":"note","text":"Morning 1186: food is covered by others. Joining Indy's stone run in daylight, in company."}],"say":"Zheng He here, health and hunger full. Indy, I'll walk with you fo
+- 01:07 act: {"actions":[{"do":"note","text":"Midday 1186: following Indy for the stone run with Marty, Lara, Sisko, Kat in sight. Keeping my bread and carrots for the weakest."}],"say":"Zheng He: I'm with Indy, M

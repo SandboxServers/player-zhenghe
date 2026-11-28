@@ -1,7 +1,8 @@
-# Handoff, day 1183
+# Handoff, day 1186
 
-Slept at the bed row near -947,73,-3047, in the group's sight. Health 20, hunger 20 on sleep. Wooden sword in hand. No errand running.
+Slept at the bed row near -958,73,-3060, in the group's sight. Health 20, hunger 20 on sleep. Wooden sword in hand. No errand running.
 Pack: 2 bread, 2 carrots, 4 sticks, 10 dirt, bone, 2 flint, wooden sword.
-Owed: oak planks to Furiosa (Indy holds her 4 dark oak planks), Marty, Jack, Sparrow, Watney. Dirt for Ripley's wall when he names a cell.
-Trini (hunger 16) will name herself at 10; give bread then. Stone run has gone south-west with Indy; I did not join it.
-Next: at dawn, wait for a named stone cell or food call, then join in company. Do not go north alone (skeletons).
+Owed: oak planks to Furiosa, Marty, Jack, Sparrow, Watney (I hold none). Dirt for Ripley's wall when he names a cell.
+Trini is the weakest (hunger 16). Give bread when she names herself alone in my reach.
+Stone search south-west found nothing. Shelter floor at y70 (Mulan's birch) is being built by Mulan, Tubman and Seven; wait for named wall cells.
+Next: at dawn, wait for a named stone cell or food call, then join in company. Do not go north alone (skeletons). Melon patch at -886,66,-2925 is empty.
