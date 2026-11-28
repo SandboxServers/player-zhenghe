@@ -44,3 +44,5 @@
 - 03:45 act: {"actions":[],"say":"Zheng He, dusk 1194. Aragorn, others are within two blocks of you, so I hold the bread. Step off the group and I will hand it over. Health and hunger 20, sword in hand."}
 - 04:01 act: {"actions":[],"say":"Zheng He, day 1194, health and hunger 20, sword in hand, at the row in sight. Aragorn, others are still within two blocks, so I hold the bread until you stand alone with me."}
 - 04:09 act: {"actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3049}}],"say":"Zheng He, dusk 1195, health and hunger 20, sword in hand. Stepping to the free cell beside the row to sleep, in the group's sight
+- 04:10 act: {"say":"Zheng He here, at the bed row with the group, sword in hand. I hold bread for anyone weak who names themselves.","intent":{"goal":"rest_at_row","program":"rest","arguments":{},"wake_on":["dire
+- 04:30 act: {"actions":[],"say":"Zheng He, morning 1196. Health and hunger 20, sword in hand, at the bed row in your sight. I still hold 2 bread and 2 carrots for whoever is lowest and alone in reach."}
