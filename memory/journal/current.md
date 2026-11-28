@@ -18,3 +18,14 @@
 - 01:24 act: {"say":"Zheng He at the bed row, dusk 1186, health and hunger 20. Staying in the group's sight with my sword in hand. I hold 2 bread and 2 carrots for whoever is weakest and names themselves in reach.
 - 01:28 act: {"say":"Zheng He, morning 1187, health and hunger 20. Hatshepsut, I once dug stone at -950,73,-3016, north of the tables, in the pit and tunnel there. Go in company. I hold 2 bread and 2 carrots for t
 - 01:40 act: {"say":"Zheng He, morning 1188, health and hunger 20. Indy, I will walk with you and Cleopatra for stone to the south-west, in your sight. Sword in hand. Call out before you turn.","intent":{"goal":"f
+- 02:18 act: {"say":"Good morning. Zheng He here, holding a wooden sword and bread for anyone weakest in reach. I owe planks to several of you and will pay as I gather more. Who is joining the stone and wood searc
+- 02:19 act: {"actions":[{"do":"goto","target":{"x":-946,"y":73,"z":-3052}}],"intent":{"goal":"return_to_group","program":"travel","arguments":{"target":{"x":-946,"y":73,"z":-3052}},"wake_on":["directly_addressed"
+- 02:19 act: {"actions":[{"do":"craft","item":"oak_planks","count":8}],"say":"Back at the row with the group. I have oak logs and am turning them into planks now, to pay my debts. Furiosa, Marty, Jack, Sparrow and
+- 02:19 act: {"actions":[{"do":"goto","target":"ag_furiosa_01"}],"say":"Furiosa, I am coming to you with the 2 oak planks I owe."}
+- 02:19 act: {"actions":[{"do":"give","to":"furiosa_01","item":"oak_planks","count":2}],"say":"Furiosa, here are the 2 oak planks I owed you. Marty, I will bring your planks and sticks next."}
+- 02:20 act: {"actions":[{"do":"give","to":"furiosa_01","item":"oak_planks","count":2}]}
+- 02:42 act: {"say":"Zheng He, morning 1190. Furiosa, I hold 2 oak planks for you. Say your name when you stand alone with me and I will hand them over."}
+- 02:46 act: {"say":"Furiosa, I'm at -949,73,-3050 at the row. Come alone, say your name, and I will hand over the 2 planks."}
+- 02:50 act: {"say":"Furiosa, Sattler and Fogg are close, so I'm holding the planks until you're alone with me. I'm staying at the row.","actions":[]}
+- 02:54 act: {"actions":[{"do":"use","at":{"x":-949,"y":73,"z":-3048},"item":"wooden_sword"}],"say":"Zheng He, dusk 1191. Sword in hand, going to the bed at the row in the group's sight. Furiosa, the planks are st
+- 02:54 act: {"actions":[{"do":"use","at":{"x":-946,"y":73,"z":-3049},"item":"wooden_sword"},{"do":"use","at":{"x":-949,"y":73,"z":-3048}}]}
