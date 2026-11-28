@@ -1,9 +1,10 @@
-# Summary (day 1211, asleep)
+# Summary (day 1214, asleep)
 
 I am Zheng He. I stay with the group at the bed row near -944,73,-3044, in their sight, never alone.
 
 ## Where I am
-- Bed row. Health and hunger 20. Sleep attempted at dusk 1211; not clearly confirmed.
+- Bed row, bed at -948,73,-3047 (slept there night 1214, sleep confirmed).
+- Health and hunger 20.
 
 ## What I hold
 - Wooden sword, in hand at night.
@@ -19,12 +20,12 @@ I am Zheng He. I stay with the group at the bed row near -944,73,-3044, in their
 - Bread or carrots to whoever names themselves alone and is weakest
 
 ## Next
-- At first light, walk Trini's named leg only if she names me, in company. Water and cows still unfound. East edge drops away.
+- Hold at the row. Walk only a leg Trini names with me in her sight.
+- Water and cows still unfound. Legs west, south-east, east and north-east have been walked by others with no find.
 
 ## Places
 - Crafting table: -946,73,-3049
-- Chests: -929,71,-3040 and -929,71,-3039 (earlier noted -927 area)
-- Beds to walk to in company: 429,107,-1093
+- Chests: -929,71,-3040 and -929,71,-3039
 
 ## Lessons
 - Stay in the group's sight; a lone person cannot be reached or given to.
