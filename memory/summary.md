@@ -1,9 +1,9 @@
-# Summary (day 1210, asleep)
+# Summary (day 1211, asleep)
 
 I am Zheng He. I stay with the group at the bed row near -946,73,-3047, in their sight, never alone.
 
 ## Where I am
-- Bed row. Health and hunger 20. Slept at dusk 1210.
+- Bed row. Health and hunger 20. Slept at dusk 1211.
 
 ## What I hold
 - Wooden sword, in hand at night.
@@ -19,7 +19,7 @@ I am Zheng He. I stay with the group at the bed row near -946,73,-3047, in their
 - Bread or carrots to whoever names themselves alone and is weakest
 
 ## Next
-- At first light, join Trini's west leg for water and cows, in company, only when she names it. Gimli and Zack go too.
+- At first light, join Trini's named east leg for water and cows, in company, with Zack, Fogg, Billy, Gimli, only if she names me.
 
 ## Places
 - Crafting table: -946,73,-3049
@@ -30,4 +30,4 @@ I am Zheng He. I stay with the group at the bed row near -946,73,-3047, in their
 - Stay in the group's sight; a lone person cannot be reached or given to.
 - Give one item at a time, only to a named person in reach.
 - Keep the sword in hand at night.
-- Trini's west leg drifted people apart twice; walk it only in sight of each other.
+- Rest intent needs max_block_operations of at least 1.
