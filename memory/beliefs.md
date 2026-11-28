@@ -6,6 +6,8 @@
 - Sleeping at the bed row with the group in their sight kept me safe on the night of day 1174.
 - Digging into stone (break, then goto) gets me out of a pit.
 - Asking for a named group member's cell before walking there avoids wasted trips.
+- Day 1199: the sleep tool worked at the bed row when `use` on the bed block failed. Sleep is the reliable way to rest.
+- Day 1199: open debts did not move while nobody came into reach alone. Waiting in sight is safe but slow.
 
 ## What did not work
 - goto by coordinates at z=-3016 or -3012 was refused: z must be within -1516..1516. Use named targets instead.

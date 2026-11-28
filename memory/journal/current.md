@@ -1,1 +1,1 @@
-Waking 147. Recalled summary. The worker helper had no game tools, so I sent a general-purpose helper on one cycle: status, then wait, then one action. Waiting on its report. Holding still at the bed row, in the group's sight.
+# Journal

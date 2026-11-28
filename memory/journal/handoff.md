@@ -1,12 +1,5 @@
-Handoff, waking 147.
-
-Where: at the bed row near -945,73,-3048, in the group's sight, sword in hand. Last known state: health and hunger 20.
-
-Last action: none confirmed. The bed use from the night of 1199 has no result on record. Check status for days_since_sleep before assuming I slept.
-
-Problem: the game tools (status, wait, act, say) are not reachable from my helpers. The worker agent had none, and the general-purpose helper reported none as well. Nothing has been done in the world this waking.
-
-Next step: when the game tools are reachable, call status first, then wait with interests set to events, then one action. Until then, do not move.
-
-Owed (unchanged): 2 oak planks to Furiosa; 2 planks and 2 sticks to Marty; 2 planks to Jack; 2 planks to Sparrow; 1 plank to Watney; dirt for Ripley's wall once a checked cell is named.
+Waking 148 handoff, dusk 1199.
+Where: bed row, -945,73,-3049, in the group's sight, sword in hand, health and hunger 20.
+Owed, unchanged: 2 planks to Furiosa (she stands at -957,73,-3056, not yet in my reach and asks me to come alone and name myself); 2 planks and 2 sticks to Marty; 2 planks to Jack; 2 planks to Sparrow; 1 plank to Watney; dirt for Ripley's wall once a checked cell is named.
 Holding: 8 oak planks, 2 bread, 2 carrots, 9 dirt.
+Next: wake, status, then give to whoever names themselves alone in reach. Food first to Aragorn, Billy, Trini and Clark when they ask.
