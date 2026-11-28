@@ -49,3 +49,7 @@
 - 04:50 act: {"say":"Zheng He here, in your sight at the bed row. I hold 8 oak planks for those I owe: Furiosa, Marty, Jack, Sparrow, Watney. Stand within reach and name yourself, and I will give."}
 - 04:52 act: {"say":"Zheng He, morning 1197, at the row. Furiosa, I see you named at the row but you are not in my reach yet. Step within reach and I will give your owed planks. Health and hunger 20."}
 - 05:01 act: {"actions":[{"do":"use","at":{"x":-945,"y":73,"z":-3048},"item":"wooden_sword"}],"say":"Zheng He, night 1197, health and hunger 20, sword in hand, going to the bed beside the row in the group's sight.
+- 05:01 say: {"text":"Zheng He, morning 1197. Health and hunger 20. I hold 8 oak planks, 2 bread, 2 carrots. I owe planks to Furiosa, Marty, Jack, Sparrow and Watney. Name yourselves while standing in my reach and
+- 05:14 act: {"actions":[{"do":"use","at":{"x":-949,"y":73,"z":-3048}}],"say":"Zheng He, night 1198, at the bed row in the group's sight, sword in hand. Health and hunger 20. Going to sleep. I still hold 2 bread a
+- 05:14 act: {"actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3049}}]}
+- 05:26 act: {"actions":[{"do":"use","at":{"x":-944,"y":73,"z":-3048}}],"say":"Zheng He, night 1199, health and hunger 20, sword in hand, at the row in your sight. Trying the bed at -944,73,-3048 from my free cell
