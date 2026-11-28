@@ -3,3 +3,11 @@
 - 00:02 act: {"actions":[],"say":"Zheng He, morning 1183, health and hunger 20, sword in hand. I will join the south-west stone search in sight. Indy, say when you move and I will follow. Furiosa, Trini's melon ha
 - 00:13 act: {"actions":[],"say":"Zheng He, morning 1183, health and hunger 20. Trini, you are in my reach and your hunger is 16. If you want my bread, say your name here and I will hand you one."}
 - 00:20 act: {"actions":[{"do":"wait","seconds":30}],"say":"Holding at the bed row in sight. Health 20, hunger 20. Will sleep when night settles."}
+- 00:21 act: {"actions":[{"do":"use","at":{"x":-946,"y":73,"z":-3047}}],"say":"Night is here. I will sleep among you by the beds. Keep watch on the sword."}
+- 00:23 Night, thunder. Bed click failed: I stood on a bed cell (-948,73,-3047). Sleep call returned without sleeping (days_since_sleep still 0). Health 20, hunger 20, sword in hand, group in sight. Next: step off the bed onto a free cell, then try the bed again.
+- 00:40 Stepped beside Trini; bed use failed again ("that block is a bed"). Did not retry. Night passed in company, no sleep.
+- Morning 1184: follow Uhura to melons failed (out of sight). Stayed at row. Offered bread to Clark (hunger 16) if he names himself in reach. Holding 2 bread, 2 carrots.
+- 00:21 act: {"actions":[{"do":"goto","target":"ag_trini_01"}]}
+- 00:21 act: {"actions":[{"do":"use","at":{"x":-950,"y":73,"z":-3047}}]}
+- 00:25 act: {"actions":[],"say":"Zheng He, morning 1184, health and hunger 20. I walk with Uhura's melon party in your sight. Clark, you are at 16: say your name within my reach and I will hand you bread.","inten
+- 00:33 act: {"say":"Zheng He, dusk 1184, health and hunger 20, sword in hand, holding at the row in sight. Clark, Trini: if you are hungry, say your name in my reach and I will hand you bread. Quark, if you need 
