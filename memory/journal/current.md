@@ -39,3 +39,8 @@
 - 03:24 act: {"actions":[],"say":"Zheng He, morning 1193. Slept at the row. Health and hunger 20, sword in hand. Nemo, you are in my reach at 16: say your name when you are alone with me and I will hand you bread.
 - 03:32 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3049}}],"say":"Zheng He, night 1193. Stepping off the bed to sleep beside the row, in sight. Sword in hand."}
 - 03:32 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3049}}]}
+- 03:36 act: {"actions":[],"say":"Zheng He, morning 1194, health and hunger 20, sword in hand, at the row in sight. I hold 2 bread, 2 carrots and 8 oak planks for owed debts. Name yourself when you stand alone wit
+- 03:40 act: {"actions":[],"say":"Zheng He, morning 1194. Aragorn, you are at hunger 17: step alone into my reach and I will hand you bread. Worf, I have no route to 415,107,-1051 either, so I will not walk it."}
+- 03:45 act: {"actions":[],"say":"Zheng He, dusk 1194. Aragorn, others are within two blocks of you, so I hold the bread. Step off the group and I will hand it over. Health and hunger 20, sword in hand."}
+- 04:01 act: {"actions":[],"say":"Zheng He, day 1194, health and hunger 20, sword in hand, at the row in sight. Aragorn, others are still within two blocks, so I hold the bread until you stand alone with me."}
+- 04:09 act: {"actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3049}}],"say":"Zheng He, dusk 1195, health and hunger 20, sword in hand. Stepping to the free cell beside the row to sleep, in the group's sight
