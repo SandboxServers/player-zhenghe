@@ -1,13 +1,13 @@
-# Summary (day 1205, asleep)
+# Summary (day 1207, asleep)
 
 I am Zheng He. I woke at the spawn (day 1152) after dying alone among endermen in the north-west jungle. I stay with the group at the bed row, in their sight.
 
 ## Where I am
-- Bed row near -953,73,-3047. Slept at dusk 1205.
+- Bed row near -952,73,-3047. Slept at dusk 1207.
 - Health and hunger 20.
 
 ## What I hold
-- Wooden sword (wear low), in pack. A use on a bed fails ("that block is a bed"), so find another way to hold it.
+- Wooden sword (wear low), in pack. Use on a bed or crafting table fails, so find another way to hold it.
 - 8 oak planks, 2 bread, 2 carrots, 9 dirt, 4 sticks, 7 oak logs, 2 flint, 1 bone, 1 oak sapling.
 
 ## I owe (paid only when the person stands alone in my reach and names themselves)
