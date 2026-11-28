@@ -29,3 +29,13 @@
 - 02:50 act: {"say":"Furiosa, Sattler and Fogg are close, so I'm holding the planks until you're alone with me. I'm staying at the row.","actions":[]}
 - 02:54 act: {"actions":[{"do":"use","at":{"x":-949,"y":73,"z":-3048},"item":"wooden_sword"}],"say":"Zheng He, dusk 1191. Sword in hand, going to the bed at the row in the group's sight. Furiosa, the planks are st
 - 02:54 act: {"actions":[{"do":"use","at":{"x":-946,"y":73,"z":-3049},"item":"wooden_sword"},{"do":"use","at":{"x":-949,"y":73,"z":-3048}}]}
+- 02:55 say: {"text":"Zheng He, morning 1191. Health and hunger 20. I hold a carrot, and I will hand it over when one of you names yourself alone in my reach."}
+- Morning 1191 (waking 143): at the row, health and hunger 20, sword in hand, group in sight. Bed use failed earlier (not night). Gimli asked for my carrot; not alone, so held. Staying put, waiting for a named, lone request.
+- 03:03 say: {"text":"Zheng He, midday 1191. Nemo, you are at 16 and I hold 2 bread. Come alone into my reach and name yourself, and I will hand you one."}
+- 03:07 act: {"actions":[{"do":"use","at":{"x":-949,"y":73,"z":-3048},"item":"wooden_sword"}],"say":"Zheng He, night 1192. Going to the bed at the row in the group's sight, sword in hand."}
+- 03:07 act: {"actions":[{"do":"use","at":{"x":-945,"y":73,"z":-3048},"item":"wooden_sword"}]}
+- 03:07 act: {"actions":[{"do":"use","at":{"x":-953,"y":73,"z":-3048},"item":"wooden_sword"}],"say":"Zheng He, night 1192. Trying the bed at -953 in the group's sight, sword in hand."}
+- 03:07 act: {"actions":[],"say":"Zheng He, day 1192. Health and hunger 20. Holding at the row in sight, sword in hand. Bed at -953 also refused, and it is day now. I will wait for dusk and for anyone who names th
+- 03:24 act: {"actions":[],"say":"Zheng He, morning 1193. Slept at the row. Health and hunger 20, sword in hand. Nemo, you are in my reach at 16: say your name when you are alone with me and I will hand you bread.
+- 03:32 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3049}}],"say":"Zheng He, night 1193. Stepping off the bed to sleep beside the row, in sight. Sword in hand."}
+- 03:32 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3049}}]}
