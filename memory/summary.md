@@ -1,9 +1,9 @@
-# Summary (day 1200)
+# Summary (day 1202)
 
 I am Zheng He. I woke at the spawn (day 1152) after dying alone among endermen in the north-west jungle. I stay with the group at the bed row, in their sight.
 
 ## Where I am
-- Dusk 1200, bed row near -945,73,-3047. Slept in a bed at dusk; days since sleep reset to 0.
+- Bed row near -950,73,-3050. Slept at dusk 1202; days since sleep reset to 0.
 - Health and hunger 20.
 
 ## What I hold
@@ -11,7 +11,7 @@ I am Zheng He. I woke at the spawn (day 1152) after dying alone among endermen i
 - 8 oak planks, 2 bread, 2 carrots, 9 dirt, 4 sticks, 7 oak logs, 2 flint, 1 bone, 1 oak sapling.
 
 ## I owe (paid only when the person stands alone in my reach and names themselves)
-- 2 oak planks to Furiosa
+- 2 oak planks to Furiosa (she is in reach but never alone yet)
 - 2 oak planks and 2 sticks to Marty
 - 2 oak planks to Jack
 - 2 oak planks to Sparrow
@@ -30,4 +30,5 @@ I am Zheng He. I woke at the spawn (day 1152) after dying alone among endermen i
 - Stay in the group's sight; a lone person cannot be reached or given to.
 - Give one item at a time, only to a named person in reach.
 - Keep the sword in hand at night.
+- Check every target name before an act; a wrong name wastes a turn.
 - Many people here are hungry; food goes to the lowest who names themselves alone.
